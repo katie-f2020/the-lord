@@ -1,3 +1,3 @@
 # the-lord
 # i have back issues
-![Image of Liam](tikyok.jpg)
+![Image of Liam](tiktok.jpg)
